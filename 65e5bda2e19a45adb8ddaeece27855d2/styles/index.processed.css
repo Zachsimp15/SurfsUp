@@ -1,0 +1,55 @@
+h1 {
+  color: #FEC108;
+  tcarousel-inneralign: center;
+}
+
+h2 {
+  color: #FEC108;
+}
+
+th {
+  color: #FEC108;
+  font-size: 25px;
+}
+
+.table {
+  background-color: #ffffff;
+}
+
+h3 {
+  color: #23bac3;
+}
+
+td {
+  color: #23bac3;
+}
+
+footer .jumbotron {
+  background-color: #23bac3;
+  border-top: 8px solid #f62384;
+}
+
+.bg-company-red {
+  background-color: #23bac3;
+  border-bottom: 8px solid #f62384;
+}
+
+#carousel-inner {
+  border-style: solid;
+  border-color: coral;
+}
+
+#owner {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/Web-Development-Images/Simpson/i-82cjxNS/0/397bbc0b/L/IMG_0016-L.png");
+  background-size: 100%, 100%;
+}
+
+#surf {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/Web-Development-Images/Simpson/i-dvkLgkJ/0/3ec17438/XL/IMG_0013-XL.png");
+  background-size: 100%, 100%;
+}
+
+#contact {
+  background-image: url("https://photos.smugmug.com/JCS-High-School/NewberryMathTechnology/Web-Development-Images/Simpson/i-xrr8sm3/0/90eb8995/XL/IMG_0010-XL.jpg");
+  background-size: 100%, 100%;
+}
